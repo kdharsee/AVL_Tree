@@ -1,0 +1,11 @@
+5
+10 ten
+5 five
+20 twenty
+15 fifteen
+25 twenty-five
+5 five
+10 ten
+15 fifteen
+20 twenty
+25 twenty-five
